@@ -30,7 +30,7 @@ from concurrent.futures import ThreadPoolExecutor
 # إعدادات البوتات
 BOT_TOKEN = '7534790432:AAF2y9ESBmLcmYo_3XxOILxsshiiacadPKA'
 ADMIN_ID = [7384683084, 1896077619]  # تم تغيير إلى رقم صحيح
-YOUR_USERNAME = '@TT_1_TT'
+YOUR_USERNAME = '@Khalidd_sw '
 VIRUSTOTAL_API_KEY = 'c1da3025db974fc63c9fc4db97f28ec3b202cc3b3e1b9cb65edf4e56bb7457ce'
 ADMIN_CHANNEL = '@TP_Q_T'
 
